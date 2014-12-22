@@ -1,1 +1,1 @@
-*Sports Synthesis* Simulation Modelling of Sports Leagues
+**Sports Synthesis** Simulation Modelling of Sports Leagues
